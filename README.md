@@ -27,12 +27,12 @@ Autonomous RC tank platform with onboard perception and control.
 
 #### 2. Shooting Subsystem
 - **Mabuchi FA-130RA Motor** – Flywheel motor (2-meter range)
-- **MG90S Micro Servo** – Reloading pusher (metal gear recommended)
+- **MG90S Micro Servo** – Reloading pusher 
 
 #### 3. Turret & Drive Actuators
 - **28BYJ-48 Stepper Motor** – 360° turret rotation
 - **MG90S Micro Servo (Secondary)** – Barrel elevation control
-- **N20 Gear Motors x2** – Left/right drive tracks (300–600 RPM)
+- **N20 Gear Motors x2** – Left/right drive tracks 
 
 #### 4. Sensing & Power
 - **10x VL53L0X ToF Modules** – Obstacle detection and mapping
