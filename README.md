@@ -1,2 +1,8 @@
-# Personal-Projects
-Personal embedded systems, TinyML, and Edge AI projects including autonomous robotics and firmware development.
+# Personal Projects
+
+This repository contains personal projects focused on:
+- Embedded Systems
+- TinyML
+- Edge AI
+- Firmware development
+- Autonomous robotics
