@@ -16,9 +16,27 @@ Autonomous RC tank platform with onboard perception and control.
 - Turret targeting system with flywheel BB launcher
 
 **Tech Stack:**
-- Firmware: C/C++, Zephyr RTOS, FreeRTOS
-- AI: TinyML, TensorFlow Lite Micro
-- Hardware: STM32, IMU, Ultrasonic sensors, Motor drivers
+- Firmware: C/C++, FreeRTOS
+- Hardware: STM32, IMU, IR sensors, Motor drivers
+
+**Hardware Components:**
+
+#### 1. Core Logic & Communication
+- **STM32G474RET6** – Main microcontroller (64-pin LQFP)
+- **ESP32-C3-WROOM-02** – WiFi/Bluetooth bridge for remote control
+
+#### 2. Shooting Subsystem
+- **Mabuchi FA-130RA Motor** – Flywheel motor (2-meter range)
+- **MG90S Micro Servo** – Reloading pusher (metal gear recommended)
+
+#### 3. Turret & Drive Actuators
+- **28BYJ-48 Stepper Motor** – 360° turret rotation
+- **MG90S Micro Servo (Secondary)** – Barrel elevation control
+- **N20 Gear Motors x2** – Left/right drive tracks (300–600 RPM)
+
+#### 4. Sensing & Power
+- **10x VL53L0X ToF Modules** – Obstacle detection and mapping
+- **DRV5032 Hall Effect Sensor** – Turret homing/alignment
 
 **Notes:** Documentation, schematics, control algorithms, and demo videos coming soon.
 
