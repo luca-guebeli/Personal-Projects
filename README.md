@@ -37,6 +37,7 @@ Autonomous RC tank platform with onboard perception and control.
 #### 4. Sensing & Power
 - **10x VL53L0X ToF Modules** – Obstacle detection and mapping
 - **DRV5032 Hall Effect Sensor** – Turret homing/alignment
+- **MPU-6050 IMU** – Control
 
 **Notes:** Documentation, schematics, control algorithms, and demo videos coming soon.
 
