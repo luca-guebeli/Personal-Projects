@@ -1,6 +1,6 @@
 # Personal Projects
 
-This repository contains my personal projects focused on **Embedded Systems, TinyML, Edge AI, Firmware development, and Autonomous Robotics**. The goal is to showcase hands-on engineering skills, real-time system design, and AI on resource-constrained devices.
+This repository contains my personal projects focused on **Embedded Systems, TinyML, Edge AI, Agentic AI, Firmware Development, and Autonomous Robotics**. The goal is to showcase hands-on engineering skills, real-time system design, AI on resource-constrained devices, and agent-based software systems.
 
 ---
 
@@ -10,34 +10,34 @@ This repository contains my personal projects focused on **Embedded Systems, Tin
 Autonomous RC tank platform with onboard perception and control.
 
 **Features:**
-- 360° obstacle sensing
+- 360-degree obstacle sensing
 - Semi-autonomous navigation
 - Wall-following algorithm
 - Turret targeting system with flywheel BB launcher
 
 **Tech Stack:**
 - Firmware: C/C++, FreeRTOS
-- Hardware: STM32, IMU, IR sensors, Motor drivers
+- Hardware: STM32, IMU, IR sensors, motor drivers
 
 **Hardware Components:**
 
 #### 1. Core Logic & Communication
-- **STM32G474RET6** – Main microcontroller (64-pin LQFP)
-- **ESP32-C3-WROOM-02** – WiFi/Bluetooth bridge for remote control
+- **STM32G474RET6** - Main microcontroller (64-pin LQFP)
+- **ESP32-C3-WROOM-02** - Wi-Fi/Bluetooth bridge for remote control
 
 #### 2. Shooting Subsystem
-- **Mabuchi FA-130RA Motor** – Flywheel motor (2-meter range)
-- **MG90S Micro Servo** – Reloading pusher 
+- **Mabuchi FA-130RA Motor** - Flywheel motor (2-meter range)
+- **MG90S Micro Servo** - Reloading pusher
 
 #### 3. Turret & Drive Actuators
-- **28BYJ-48 Stepper Motor** – 360° turret rotation
-- **MG90S Micro Servo (Secondary)** – Barrel elevation control
-- **N20 Gear Motors x2** – Left/right drive tracks 
+- **28BYJ-48 Stepper Motor** - 360-degree turret rotation
+- **MG90S Micro Servo (Secondary)** - Barrel elevation control
+- **N20 Gear Motors x2** - Left/right drive tracks
 
 #### 4. Sensing & Power
-- **10x VL53L0X ToF Modules** – Obstacle detection and mapping
-- **DRV5032 Hall Effect Sensor** – Turret homing/alignment
-- **MPU-6050 IMU** – Control
+- **10x VL53L0X ToF Modules** - Obstacle detection and mapping
+- **DRV5032 Hall Effect Sensor** - Turret homing/alignment
+- **MPU-6050 IMU** - Control
 
 **Notes:** Documentation, schematics, control algorithms, and demo videos coming soon.
 
@@ -68,10 +68,25 @@ Autonomous RC tank platform with onboard perception and control.
 ---
 
 ### Edge AI Projects
-#### 1. Edge AI Camera
+#### 1. STM32N6 Multimodal Edge AI
+- Vision and audio experiments on an STM32N6 board
+- Camera and MEMS microphone bring-up
+- NPU-accelerated inference for real-time edge AI demos
+- Center-object outline demo using camera-based segmentation
+- Project folder: [STM32N6_Multimodal_Edge_AI](STM32N6_Multimodal_Edge_AI/)
+
+#### 2. Edge AI Camera
 - Object detection on MCU
 - TinyML model integration
 - Optimized for low-latency inference
+
+---
+
+### Agentic AI Projects
+#### 1. Agent Learning Lab
+- Experiments for learning how agents reason, plan, and use tools
+- Small prototypes for task automation and workflow assistants
+- Notes on agent architectures, memory, evaluation, and safety
 
 ---
 
@@ -87,3 +102,4 @@ Clone this repository and navigate to the project of interest:
 ```bash
 git clone https://github.com/luca-guebeli/Personal-Projects.git
 cd Personal-Projects/<project-name>
+```

@@ -1,0 +1,39 @@
+{
+  "header": {
+    "sector_size": 512,
+    "mini_sector_size": 64,
+    "num_fat": 14,
+    "first_dir": 1697,
+    "mini_cutoff": 4096,
+    "num_streams": 3
+  },
+  "streams": [
+    {
+      "idx": 1,
+      "name": "FileHeader",
+      "type": 2,
+      "start": 0,
+      "size": 860608,
+      "file": "C:\\Users\\lucag\\OneDrive\\Desktop\\FLAT_LOG\\_schematic_review\\latest\\streams\\001_FileHeader.bin",
+      "sample": "u...|HEADER=Protel for Windows - Schematic Capture Binary File Version 5.0|Weight=4767|MinorVersion=13|UniqueID=URERSDNA.\u0098\u0003..|RECORD=31|FontIdCount=5|Size1=10|FontName1=Times New R"
+    },
+    {
+      "idx": 2,
+      "name": "Storage",
+      "type": 2,
+      "start": 0,
+      "size": 25,
+      "file": "C:\\Users\\lucag\\OneDrive\\Desktop\\FLAT_LOG\\_schematic_review\\latest\\streams\\002_Storage.bin",
+      "sample": "\u0015...|HEADER=Icon storage."
+    },
+    {
+      "idx": 3,
+      "name": "Additional",
+      "type": 2,
+      "start": 1,
+      "size": 75,
+      "file": "C:\\Users\\lucag\\OneDrive\\Desktop\\FLAT_LOG\\_schematic_review\\latest\\streams\\003_Additional.bin",
+      "sample": "G...|HEADER=Protel for Windows - Schematic Capture Binary File Version 5.0."
+    }
+  ]
+}

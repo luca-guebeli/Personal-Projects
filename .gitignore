@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv*/
+venv/
+.pytest_cache/
+
+# Training outputs
+**/runs/
+**/checkpoints/
+*.pt
+*.pth
+*.onnx

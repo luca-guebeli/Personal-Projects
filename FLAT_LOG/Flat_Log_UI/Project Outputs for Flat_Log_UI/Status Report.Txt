@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Flat_Log_UI.PrjPcb]
+   Generated File[UI_PCB.TXT]
+   Generated File[UI_PCB.LDP]
+   Generated File[UI_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:25:45 AM On 5/22/2026

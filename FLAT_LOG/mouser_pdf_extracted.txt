@@ -1,0 +1,6305 @@
+pages 8
+
+--- PAGE 1 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 2 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 3 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 4 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 5 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 6 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 7 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+
+--- PAGE 8 ---
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Hochgeladene Daten Angepasste Teiledetails Min./Mehrf. Verpackungsauswahl Anzahl
+Stückpreis
+(CHF)
+Erw.
+Preis
+(CHF)
+Alle
+löschen
+Mouser­ ODER Herst.­
+Nr.
+Mouser OR Mfr. Number
+Mouser­ ODER Herst.­
+Nr.
+52271­0679
+1 / 1 Cut­Tape 5 0.705 CHF
+0.705 CHF
+3.53
+CHF
+0.71
+CHF
+Mouser­ ODER Herst.­
+Nr.
+54132­4062
+1 / 1 Cut­Tape 2 1.84 CHF
+1.84 CHF
+3.68
+CHF
+1.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+440055­5
+1 / 1 Nicht zugewiesen 10 0.219 CHF
+0.262 CHF
+2.19
+CHF
+0.26
+CHF
+Mouser­ ODER Herst.­
+Nr.
+430182043816
+1 / 1 Cut­Tape 10 0.417 CHF
+0.42 CHF
+4.17
+CHF
+0.84
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603FR­7W100KL
+1 / 1 Cut­Tape 20 0.017 CHF
+0.079 CHF
+0.34
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AC0603JR­7W10KL
+1 / 1 Cut­Tape 40 0.015 CHF
+0.015 CHF
+0.60
+CHF
+0.33
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AP63203WU­7
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+AT0603FRE075K1L
+1 / 1 Cut­Tape 10 0.077 CHF
+0.159 CHF
+0.77
+CHF
+0.48
+CHF
+Mouser­ ODER Herst.­
+Nr.
+B4B­PH­K­S(LF)(SN)
+1 / 1 Nicht zugewiesen 10 0.132 CHF
+0.159 CHF
+1.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BAT54A
+1 / 1 Cut­Tape 10 0.07 CHF
+0.095 CHF
+0.70
+CHF
+0.29
+CHF
+Mouser­ ODER Herst.­
+Nr.
+BM14B­GHS­TBT(LF)
+(SN)
+
+1 / 1 Nicht zugewiesen 5 0.524 CHF
+0.524 CHF
+2.62
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C103J5RALTU
+1 / 1 Cut­Tape 10 0.262 CHF
+0.555 CHF
+2.62
+CHF
+0.56
+CHF
+Mouser­ ODER Herst.­
+Nr.
+C0603C474J4RACAUTO
+1 / 1 Cut­Tape 10 0.174 CHF
+0.365 CHF
+1.74
+CHF
+0.37
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ERJ­3RQFR68V
+1 / 1 Cut­Tape 10 0.06 CHF
+0.095 CHF
+0.60
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+ESP32­S3­WROOM­1U­
+N16R8
+1 / 1 Nicht zugewiesen 2 5.20 CHF
+5.20 CHF
+10.40
+CHF
+5.20
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H102KA01D
+1 / 1 Cut­Tape 20 0.039 CHF
+0.095 CHF
+0.78
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCJ188R71H104KA12D
+1 / 1 Cut­Tape 20 0.041 CHF
+0.103 CHF
+0.82
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GCM1885C1H332JA16J
+1 / 1 Cut­Tape 10 0.035 CHF
+0.095 CHF
+0.35
+CHF
+0.10
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM21BR61E106MA73L
+1 / 1 Cut­Tape 20 0.051 CHF
+0.127 CHF
+1.02
+CHF
+0.64
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRM319R61C226ME15D
+1 / 1 Cut­Tape 20 0.141 CHF
+0.317 CHF
+2.82
+CHF
+0.95
+CHF
+Mouser­ ODER Herst.­
+Nr.
+GRT188R71E105KE13D
+1 / 1 Cut­Tape 30 0.039 CHF
+0.103 CHF
+1.17
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+KP0115ANBKG03RGBP­
+3SJB
+1 / 1 Nicht zugewiesen 1 9.04 CHF
+9.04 CHF
+9.04
+CHF
+54.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+PS1240P02BT
+1 / 1 Nicht zugewiesen 4 0.52 CHF
+0.52 CHF
+2.08
+CHF
+0.52
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RC0805JR­070RL
+1 / 1 Cut­Tape 10 0.015 CHF
+0.174 CHF
+0.15
+CHF
+0.35
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805FT33R0
+1 / 1 Cut­Tape 10 0.013 CHF
+0.079 CHF
+0.13
+CHF
+0.32
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RMCF0805JT1M00
+1 / 1 Cut­Tape 10 0.011 CHF
+0.079 CHF
+0.11
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RN73C2A4K7BTDF
+1 / 1 Cut­Tape 10 0.575 CHF
+0.817 CHF
+5.75
+CHF
+1.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RNCP0603FTD100R
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.24
+CHF
+Mouser­ ODER Herst.­
+Nr.
+RT0603FRE071K6L
+1 / 1 Cut­Tape 10 0.008 CHF
+0.079 CHF
+0.08
+CHF
+0.08
+CHF
+Mouser­ ODER Herst.­
+Nr.
+S1751­46R
+1 / 1 Cut­Tape 20 0.202 CHF
+0.202 CHF
+4.04
+CHF
+2.02
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SM14B­GHS­TB(LF)(SN)
+1 / 1 Nicht zugewiesen 2 0.531 CHF
+0.531 CHF
+1.06
+CHF
+0.53
+CHF
+Mouser­ ODER Herst.­
+Nr.
+SRP4020TA­3R3M
+1 / 1 Cut­Tape 2 0.762 CHF
+0.762 CHF
+1.52
+CHF
+0.76
+CHF
+Mouser­ ODER Herst.­
+Nr.
+STCS1APUR
+1 / 1 Cut­Tape 2 1.59 CHF
+1.59 CHF
+3.18
+CHF
+1.59
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TCA9534APWR
+1 / 1 Cut­Tape 2 1.36 CHF
+1.36 CHF
+2.72
+CHF
+1.36
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS22919DCKR
+1 / 1 Cut­Tape 2 0.159 CHF
+0.159 CHF
+0.32
+CHF
+0.16
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TPS259531DSGR
+1 / 1 Cut­Tape 2 0.824 CHF
+0.824 CHF
+1.65
+CHF
+0.82
+CHF
+Mouser­ ODER Herst.­
+Nr.
+TXU0202DCUR
+1 / 1 Cut­Tape 2 0.809 CHF
+0.809 CHF
+1.62
+CHF
+0.81
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USB4105­GF­A
+1 / 1 Cut­Tape 5 0.634 CHF
+0.634 CHF
+3.17
+CHF
+0.63
+CHF
+Mouser­ ODER Herst.­
+Nr.
+USBLC6­2SC6
+1 / 1 Cut­Tape 5 0.388 CHF
+0.388 CHF
+1.94
+CHF
+0.39
+CHF
+PDF herunterladen
+ In Excel exportieren
+ Drucken
+ Keinen genauen Treffer gefunden.
+Mouser Nr. 538­52271­0679
+Herst.­Nr. 52271­0679
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+RA SMT ZIF BOTTOM 6P
+FFC/FPC
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 538­54132­4062
+Herst.­Nr. 54132­4062
+Herst. Molex
+Beschreibung FFC & FPC­Steckverbinder
+0.5 FPC Hsg AssyBtmW
+/AuPlt40CktEmbsTpPk
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 571­440055­5
+Herst.­Nr. 440055­5
+Herst. TE Connectivity
+Beschreibung Sockel & Kabelgehäuse
+2.0mm HDR 5pos R/A HPI
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 710­430182043816
+Herst.­Nr. 430182043816
+Herst. Wurth Elektronik
+Beschreibung Sensorschalter Tact Switch
+SMT 4.3mm Blk Act.
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 603­AC0603FR­7W100KL
+Herst.­Nr. AC0603FR­7W100KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+100 kOhms 1/5 W 75 V 1%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+4
+20 Versand sofort
+Mouser Nr. 603­AC0603JR­7W10KL
+Herst.­Nr. AC0603JR­7W10KL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+10 kOhms 1/5 W 75 V 5%
+0603 100 PPM / C ­ 55 C /
++ 155 C AEC­Q200
+Schnellansicht
+22
+40 Versand sofort
+Mouser Nr. 621­AP63203WU­7
+Herst.­Nr. AP63203WU­7
+Herst. Diodes Incorporated
+Beschreibung Schaltspannungsregler
+DCDC Conv HV Buck
+TSOT26 T&R 3K
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 603­AT0603FRE075K1L
+Herst.­Nr. AT0603FRE075K1L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+5.1k Ohms 1% 0603 ­55C /
++155C AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 306­B4BPHKSLFSNPP
+Herst.­Nr. B4B­PH­K­S(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse PH
+HEADER (TOP)
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+10 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 637­BAT54A
+Herst.­Nr. BAT54A
+Herst. Diotec Semiconductor
+Beschreibung Schottky Dioden &
+Gleichrichter Schottky,
+SOT­23, 30V, 0.2A
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 306­BM14BGHSTBTLFSN
+Herst.­Nr. BM14B­GHS­TBT(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT/TOP TYPE)
+Schnellansicht
+1
+0 Versand sofort
+5 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 80­C0603C103J5RAL
+Herst.­Nr. C0603C103J5RALTU
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 50V 0.01uF 0603
+X7R 0.05
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 80­C0603C474J4RAUTO
+Herst.­Nr. C0603C474J4RACAUTO
+Herst. KEMET
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 16V 0.47uF X7R
+0603 5% AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 667­ERJ­3RQFR68V
+Herst.­Nr. ERJ­3RQFR68V
+Herst. Panasonic
+Beschreibung Strommesswiderstände ­
+SMD 0603 0.68ohm 1%
+Curr Sense AEC­Q200
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 356­ESP32S3WM1UN16R8
+Herst.­Nr. ESP32­S3­WROOM­1U­
+N16R8
+Herst. Espressif
+Beschreibung Multiprotokoll­Module SMD
+module, ESP32­S3R8 with
+8 MB Octal PSRAM die
+inside, 16 MB Quad SPI
+flash, IPEX antenna
+connector
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 81­GCJ188R71H102KA1D
+Herst.­Nr. GCJ188R71H102KA01D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1000 pF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCJ188R71H104KA2D
+Herst.­Nr. GCJ188R71H104KA12D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 0.1 uF 50 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+20 Versand sofort
+Mouser Nr. 81­GCM1885C1H332JA6J
+Herst.­Nr. GCM1885C1H332JA16J
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 3300 pF 50 VDC
+5% 0603 C0G (NP0) AEC­
+Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 81­GRM21BR61E106MA3L
+Herst.­Nr. GRM21BR61E106MA73L
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 10 uF 25 VDC
+20% 0805 X5R
+RoHS  RoHS­konform
+Schnellansicht
+5
+20 Versand sofort
+Mouser Nr. 81­GRM319R61C226ME5D
+Herst.­Nr. GRM319R61C226ME15D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 22 uF 16 VDC
+20% 1206 X5R
+RoHS  RoHS­konform
+Schnellansicht
+3
+0 Versand sofort
+20 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 81­GRT188R71E105KE3D
+Herst.­Nr. GRT188R71E105KE13D
+Herst. Murata
+Beschreibung Kondensator aus mehreren
+Keramikschichten MLCC ­
+SMD/SMT 1 uF 25 VDC
+10% 0603 X7R AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+8
+30 Versand sofort
+Mouser Nr. 633­5ANBKG03RGBP3SJB
+Herst.­Nr. KP0115ANBKG03RGBP­
+3SJB
+Herst. NKK Switches
+Beschreibung Drucktastenschalter
+MINIATURE AUDIO/VIDEO
+PUSHBUTTON
+Schnellansicht
+6
+1 Versand sofort
+Mouser Nr. 810­PS1240P02BT
+Herst.­Nr. PS1240P02BT
+Herst. TDK
+Beschreibung Summer und Audioanzeigen
+– Bestückung Round
+12.2mmx6.5mm 4kHz
+Vin=3V
+RoHS  RoHS­konform
+Schnellansicht
+1
+4 Versand sofort
+Mouser Nr. 603­RC0805JR­070RL
+Herst.­Nr. RC0805JR­070RL
+Herst. YAGEO
+Beschreibung Dickfilmwiderstände ­ SMD
+General Purpose Chip
+Resistor 0805, 0Ohms, 5%,
+1/8W
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RMCF0805FT33R0
+Herst.­Nr. RMCF0805FT33R0
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+33Ohms 0805 0.125W 1%
+Std Power AEC­Q200
+Schnellansicht
+4
+10 Versand sofort
+Mouser Nr. 708­RMCF0805JT1M00
+Herst.­Nr. RMCF0805JT1M00
+Herst. SEI Stackpole
+Beschreibung Dickfilmwiderstände ­ SMD
+1MOhms 0805 0.125W 5%
+Std Power AEC­Q200
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 279­RN73C2A4K7BTDF
+Herst.­Nr. RN73C2A4K7BTDF
+Herst. TE Connectivity
+Beschreibung Dünnfilmwiderstände ­ SMD
+RN 0805 4K7 0.1% 10PPM
+RoHS  RoHS­konform
+Schnellansicht
+2
+10 Versand sofort
+Mouser Nr. 708­RNCP0603FTD100R
+Herst.­Nr. RNCP0603FTD100R
+Herst. SEI Stackpole
+Beschreibung Dünnfilmwiderstände ­ SMD
+100Ohms 0603 0.125W
+100ppm 1% Hi Pwr Anti­
+Sulfu
+RoHS  RoHS­konform
+Schnellansicht
+3
+10 Versand sofort
+Mouser Nr. 603­RT0603FRE071K6L
+Herst.­Nr. RT0603FRE071K6L
+Herst. YAGEO
+Beschreibung Dünnfilmwiderstände ­ SMD
+1/10W 1.6K ohm 1%
+50ppm
+Schnellansicht
+1
+10 Versand sofort
+Mouser Nr. 855­S1751­46R
+Herst.­Nr. S1751­46R
+Herst. Harwin
+Beschreibung Prüfstecker und
+Messbuchsen EZ
+Boardware S17 SMT TEST
+TERMINAL LOOSE PIECE
+RoHS  RoHS­konform
+Schnellansicht
+10
+20 Versand sofort
+Mouser Nr. 306­SM14BGHSTBLFSN
+Herst.­Nr. SM14B­GHS­TB(LF)(SN)
+Herst. JST
+Beschreibung Sockel & Kabelgehäuse GH
+HEADER (SMT SIDE)
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 652­SRP4020TA­3R3M
+Herst.­Nr. SRP4020TA­3R3M
+Herst. Bourns
+Beschreibung Leistungsinduktivitäten –
+SMD 3.3uH 20% SMD 4020
+AEC­Q200
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 511­STCS1APUR
+Herst.­Nr. STCS1APUR
+Herst. STMicroelectronics
+Beschreibung Driver ICs LED­
+Beleuchtungstreiber 1.5 A
+Max Const LED Driver
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TCA9534APWR
+Herst.­Nr. TCA9534APWR
+Herst. Texas Instruments
+Beschreibung Schnittstelle ­ I/O­Erweiterer
+Remote 8B I2C and Lo w­
+Pwr I/O Expander
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TPS22919DCKR
+Herst.­Nr. TPS22919DCKR
+Herst. Texas Instruments
+Beschreibung Leistungsschalter IC ­
+Leistungsverteiler 5.5­V 1.5­
+A 90­moh m load switch
+with a A 595­
+TPS22919DCKT
+RoHS  RoHS­konform
+Schnellansicht
+1
+0 Versand sofort
+2 Im Lieferrückstand
+Verfügbarkeit
+Mouser Nr. 595­TPS259531DSGR
+Herst.­Nr. TPS259531DSGR
+Herst. Texas Instruments
+Beschreibung Hot Swap­
+Spannungscontroller 2.7­V
+to 18­V 34m&O mega; 0.5­
+4A eFuse A A 595­
+TPS259531DSGT
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 595­TXU0202DCUR
+Herst.­Nr. TXU0202DCUR
+Herst. Texas Instruments
+Beschreibung Übersetzungsspannungs­
+Pegel Two channel fixed­di
+rection level shift
+RoHS  RoHS­konform
+Schnellansicht
+1
+2 Versand sofort
+Mouser Nr. 640­USB4105­GF­A
+Herst.­Nr. USB4105­GF­A
+Herst. GCT
+Beschreibung USB­Stecker USB Type
+C,2.0, Rec,SMT, 0.95mmTH
+Shell Stakes,G/F,RA,Top
+Mnt,T&R
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort
+Mouser Nr. 511­USBLC6­2SC6
+Herst.­Nr. USBLC6­2SC6
+Herst. STMicroelectronics
+Beschreibung ESD­Schutzdioden / TVS­
+Dioden ESD Protection Low
+Cap
+RoHS  RoHS­konform
+Schnellansicht
+1
+5 Versand sofort

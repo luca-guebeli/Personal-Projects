@@ -1,0 +1,362 @@
+[
+  {
+    "name": "VLED_5V",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_VBUS",
+    "manhattan": 32945007.0,
+    "routed": 15965527.0
+  },
+  {
+    "name": "USB_SHIELD",
+    "manhattan": 33218425.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_D_MCU_P",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_D_P",
+    "manhattan": 66330329.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_D_MCU_N",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_D_N",
+    "manhattan": 63343089.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_CC2",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "USB_CC1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "TOUCH_INT",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SYS_EN_SW",
+    "manhattan": 90817438.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SYS_EN",
+    "manhattan": 125052820.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SYS_5V",
+    "manhattan": 129159231.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SYS_3V3",
+    "manhattan": 144573353.0,
+    "routed": 0.0
+  },
+  {
+    "name": "STC_SLOPE",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "STC_EN",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "STC_DISC",
+    "manhattan": 47150000.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SCANNER_PWR_EN",
+    "manhattan": 92111826.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SCANNER_5V",
+    "manhattan": 94698234.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SCAN_TX_FROM_MODULE",
+    "manhattan": 47716733.0,
+    "routed": 0.0
+  },
+  {
+    "name": "SCAN_RX_TO_MODULE",
+    "manhattan": 54329331.0,
+    "routed": 0.0
+  },
+  {
+    "name": "PWR_SW_NC",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "PWR_LED",
+    "manhattan": 48790157.0,
+    "routed": 0.0
+  },
+  {
+    "name": "OE",
+    "manhattan": 76076656.0,
+    "routed": 0.0
+  },
+  {
+    "name": "NetR29_1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "NetR3_2",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "NetC20_2",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "NetC20_1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "NetC3_1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "MCU_SCAN_TX",
+    "manhattan": 41756986.0,
+    "routed": 0.0
+  },
+  {
+    "name": "MCU_SCAN_RX",
+    "manhattan": 43606986.0,
+    "routed": 0.0
+  },
+  {
+    "name": "MCU_EN",
+    "manhattan": 44419394.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_SIN_HMI",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_SIN",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_SCLK_HMI",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_SCLK",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_LAT_HMI",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_LAT",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LED_BLANK_HMI",
+    "manhattan": 0.0,
+    "routed": 1920548.0
+  },
+  {
+    "name": "LED_BLANK",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_WR",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_RDX",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_IM2",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_IM1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_IM0",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_DC",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D7",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D6",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D5",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D4",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D3",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D2",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D1",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_D0",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_CS",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "LCD_BL_PWM",
+    "manhattan": 14450000.0,
+    "routed": 0.0
+  },
+  {
+    "name": "IO46",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "IO45",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "I2C_SDA",
+    "manhattan": 29143015.0,
+    "routed": 0.0
+  },
+  {
+    "name": "I2C_SCL",
+    "manhattan": 30431599.0,
+    "routed": 0.0
+  },
+  {
+    "name": "HMI_INT",
+    "manhattan": 16768040.0,
+    "routed": 0.0
+  },
+  {
+    "name": "GND",
+    "manhattan": 270225845.0,
+    "routed": 0.0
+  },
+  {
+    "name": "EFUSE_FLT",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "DISP_TOUCH_RST",
+    "manhattan": 14124489.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BUZZER_PWM",
+    "manhattan": 85127655.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BUZZER_DRIVE",
+    "manhattan": 77714471.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BTN_MULTI_WAKE",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BOOT_MODE",
+    "manhattan": 47871656.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BL_SENSE",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "BL_LED_K",
+    "manhattan": 0.0,
+    "routed": 0.0
+  },
+  {
+    "name": "B2",
+    "manhattan": 40736024.0,
+    "routed": 0.0
+  },
+  {
+    "name": "B1Y",
+    "manhattan": 46895866.0,
+    "routed": 0.0
+  }
+]

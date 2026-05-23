@@ -1,0 +1,128 @@
+{
+  "record_count": 2917,
+  "record_type_counts": [
+    [
+      "",
+      1191
+    ],
+    [
+      "Component.VaultGUID",
+      88
+    ],
+    [
+      "Component.ItemGUID",
+      88
+    ],
+    [
+      "Component.RevisionGUID",
+      88
+    ],
+    [
+      "Height",
+      58
+    ],
+    [
+      "Max Operating Temperature",
+      46
+    ],
+    [
+      "Min Operating Temperature",
+      46
+    ],
+    [
+      "Packaging",
+      41
+    ],
+    [
+      "Mount",
+      37
+    ],
+    [
+      "Length",
+      36
+    ],
+    [
+      "Width",
+      31
+    ],
+    [
+      "Case/Package",
+      31
+    ],
+    [
+      "Voltage Rating",
+      31
+    ],
+    [
+      "Tolerance",
+      29
+    ],
+    [
+      "Manufacturer",
+      25
+    ],
+    [
+      "Lead Free",
+      23
+    ],
+    [
+      "ComponentLink2Description",
+      21
+    ],
+    [
+      "ComponentLink2URL",
+      21
+    ],
+    [
+      "Case Code (Imperial)",
+      21
+    ],
+    [
+      "Case Code (Metric)",
+      21
+    ],
+    [
+      "Package Quantity",
+      21
+    ],
+    [
+      "RoHS Compliant",
+      21
+    ],
+    [
+      "Mounting Technology",
+      20
+    ],
+    [
+      "REACH SVHC",
+      19
+    ],
+    [
+      "Resistor Type",
+      19
+    ],
+    [
+      "Temperature Coefficient",
+      18
+    ],
+    [
+      "Contact Plating",
+      17
+    ],
+    [
+      "Resistance",
+      17
+    ],
+    [
+      "Termination",
+      16
+    ],
+    [
+      "Arrow Part Number",
+      15
+    ]
+  ],
+  "componentish_count": 103,
+  "net_count": 72,
+  "rule_count": 42
+}

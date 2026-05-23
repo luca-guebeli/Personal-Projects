@@ -1,0 +1,10 @@
+model: center_object_resunet
+purpose: PC-side teacher/baseline model for binary center-object segmentation
+input_size: 256
+batch_size: 8
+epochs: 50
+learning_rate: 0.0003
+loss: bce_with_logits + dice
+notes:
+  - Train this first to prove dataset quality.
+  - Later make a smaller STM32N6 model at 160x160 or 224x224.
